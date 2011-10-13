@@ -1,3 +1,6 @@
 [submodule "submodules/rapidsms"]
 	path = submodules/rapidsms
 	url = git://github.com/dimagi/rapidsms.git
+[submodule "submodules/rapidsms-groupmessaging"]
+	path = submodules/rapidsms-groupmessaging
+	url = git://github.com/ternus/rapidsms-groupmessaging
