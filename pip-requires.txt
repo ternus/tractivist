@@ -1,0 +1,5 @@
+Django>=1.2.1
+twilio
+django-nose>=0.1
+nose==0.11.4
+nose-exclude
