@@ -1,9 +1,0 @@
-tractivist: logistics for activism
-
-Steps to setup:
-
-$ git clone git@github.com:ternus/tractivist.git
-$ cd tractivist
-$ git submodule init
-$ git submodule update
-
