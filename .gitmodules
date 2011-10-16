@@ -4,3 +4,9 @@
 [submodule "submodules/rapidsms-groupmessaging"]
 	path = submodules/rapidsms-groupmessaging
 	url = git://github.com/ternus/rapidsms-groupmessaging
+[submodule "rapidsms-twilio"]
+	path = submodules/rapidsms-twilio
+	url = https://github.com/caktus/rapidsms-twilio.git
+[submodule "submodules/rapidsms-twilio"]
+	path = submodules/rapidsms-twilio
+	url = https://github.com/caktus/rapidsms-twilio.git
