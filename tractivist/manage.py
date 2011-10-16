@@ -16,6 +16,7 @@ sys.path.append(os.path.join(filedir,'..'))
 sys.path.append(os.path.join(filedir,'..','submodules','rapidsms',))
 sys.path.append(os.path.join(filedir,'..','submodules','rapidsms','lib'))
 sys.path.append(os.path.join(filedir,'..','submodules','rapidsms-groupmessaging'))
+sys.path.append(os.path.join(filedir,'..','submodules','rapidsms-twilio',))
 
 
 if __name__ == "__main__":
